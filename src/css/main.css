@@ -1,0 +1,14 @@
+body {
+  background-color: #eee;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+}
+header div {
+  flex-direction: column;
+}
